@@ -30,9 +30,6 @@ The goal of this dashboard is to transform raw job posting data into meaningful 
 # 🛠 Skills & Technologies Used
 
 ## 📊 Power BI Skills
-- Data Cleaning using Power Query
-- Data Modeling
-- DAX Measures & Calculations
 - KPI Development
 - Interactive Dashboard Design
 - Drill Through Navigation
