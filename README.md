@@ -154,19 +154,9 @@ This dashboard helps answer important questions such as:
 
 Through this project, I strengthened my understanding of:
 - Building interactive dashboards in Power BI
-- Creating calculated measures using DAX
 - Designing dashboards for storytelling
 - Converting raw datasets into actionable insights
 - Using visual analytics for business decision-making
-
----
-
-# 🔗 Connect With Me
-
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
-
----
 
 # ⭐ Support
 
